@@ -1,0 +1,9 @@
+{
+  "name": "staypilot-cloud",
+  "version": "0.2.0",
+  "private": true,
+  "description": "StayPilot cloud MVP: Vercel static app + Supabase Auth/Postgres",
+  "scripts": {"dev":"npx vercel dev","deploy:preview":"npx vercel"},
+  "engines": {"node": ">=20"},
+  "devDependencies": {"vercel":"^41.0.0"}
+}

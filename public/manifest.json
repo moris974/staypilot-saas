@@ -1,0 +1,11 @@
+{
+  "name": "StayPilot",
+  "short_name": "StayPilot",
+  "description": "Guide digitali per l'ospitalità",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f7f3",
+  "theme_color": "#b28a48",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
